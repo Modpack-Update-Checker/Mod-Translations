@@ -1,7 +1,7 @@
 {
     "title.modpack-update-checker": "Vérificateur de mises à jour de modpack",
     "screen.modpack-update-checker.modpack-update.title": "Journal des modifications",
-    "screen.modpack-update-checker.modpack-update.currentVersion-null": "currentVersion est null !",
+    "screen.modpack-update-checker.modpack-update.currentVersion-null": "currentVersion est null !",
     "screen.modpack-update-checker.modpack-update.latestVersion-null": "latestVersion est null !",
     "screen.modpack-update-checker.modpack-update.changelogs-null": "changelogs est null !",
     "screen.modpack-update-checker.modpack-update.modpackName-null": "modpackName est null !",
